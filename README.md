@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Joey 👋
 
 <!--
 **joeyll5/joeyll5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am currently pursuing my second Master degree from Wake Forest University, majoring in Business Analytics.
+
+I have experience in developing machine learning models, conducting research, and collaborating with cross-functional teams to meet business requirements. Additionally, I possess strong technical skills in R, Tableau, Power BI, Python, and SQL, and hold certifications in Digital Media and Digital Marketing.
